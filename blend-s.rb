@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook.html
 #                http://www.rubydoc.info/github/Homebrew/brew/master/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
- class Blend-S < Formula
+ class BlendS < Formula
   desc "Blend S Meme (\"S\" stands for??)"
   homepage ""
   url "https://github.com/el-hoshino/blend-s/releases/download/version%2F1.0.0/blend-s.zip"
