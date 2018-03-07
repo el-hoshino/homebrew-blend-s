@@ -1,6 +1,6 @@
  class BlendS < Formula
   desc "Blend S Meme (\"S\" stands for??)"
-  homepage ""
+  homepage "https://github.com/el-hoshino/blend-s"
   url "https://github.com/el-hoshino/blend-s/archive/version/1.0.0.tar.gz"
   sha256 "1f6272f7f264db7c39b5d294299bf107a1c793fe25a05c8fe24719c51a237257"
    def install
