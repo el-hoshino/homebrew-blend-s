@@ -4,7 +4,7 @@ cask 'blend-s' do
 
   url 'https://github.com/el-hoshino/blend-s/releases/download/version%2F1.0.0/blend-s.zip'
   name 'blend-s'
-  homepage ''
+  homepage 'https://github.com/el-hoshino/blend-s'
 
   binary 'blend-s'
 end
